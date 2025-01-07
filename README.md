@@ -18,7 +18,7 @@ Run Steps:
 2) run follow script to execute task 1</br>
 	./Task1-run.sh
 3) run follow script to check execution output</br>
-	hadoop fs -ls /Output/Task1
-	hadoop fs -cat /Output/Task1/part-00000
-	hadoop fs -cat /Output/Task1/part-00001
-	hadoop fs -cat /Output/Task1/part-00002
+	hadoop fs -ls /Output/Task1</br>
+	hadoop fs -cat /Output/Task1/part-00000</br>
+	hadoop fs -cat /Output/Task1/part-00001</br>
+	hadoop fs -cat /Output/Task1/part-00002</br>
